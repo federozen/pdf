@@ -1,6 +1,1 @@
-langchain==0.1.9  # Versión específica de LangChain (ajusta según la versión que uses)
-openai==1.3.7     # Versión compatible con la nueva API de OpenAI
-streamlit==1.24.0 # Versión de Streamlit (ajusta si usas otra versión)
-faiss-cpu==1.7.4  # Para vectorización (versión CPU; usa faiss-gpu si tienes GPU)
-PyPDF2==3.0.1     # Para cargar PDFs (puede ser reemplazado por pypdf si es necesario)
-pydantic==2.5.3   # Para validación de datos (LangChain lo requiere)
+
